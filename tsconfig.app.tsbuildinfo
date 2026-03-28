@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/types.ts","./src/components/audioplayer.tsx","./src/components/exportpanel.tsx","./src/components/lyricslist.tsx","./src/components/synccontrols.tsx","./src/components/uploadpanel.tsx","./src/utils/formattime.ts","./src/utils/generatettml.ts","./src/utils/parselyrics.ts"],"version":"5.8.3"}
